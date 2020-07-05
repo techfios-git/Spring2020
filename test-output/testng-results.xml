@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17220" started-at="2020-07-04T18:45:50Z" finished-at="2020-07-04T18:46:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17220" started-at="2020-07-04T18:45:50Z" finished-at="2020-07-04T18:46:08Z">
+      <class name="crmTest.LoginTest">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:crmTest.LoginTest@68be2bc2]" name="readConfig" is-config="true" duration-ms="22" started-at="2020-07-04T13:45:50Z" finished-at="2020-07-04T13:45:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:crmTest.LoginTest@68be2bc2]" name="init" is-config="true" duration-ms="12061" started-at="2020-07-04T13:45:50Z" finished-at="2020-07-04T13:46:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addCustomerTest()[pri:0, instance:crmTest.LoginTest@68be2bc2]" name="addCustomerTest" duration-ms="5100" started-at="2020-07-04T13:46:03Z" finished-at="2020-07-04T13:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+      </class> <!-- crmTest.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
